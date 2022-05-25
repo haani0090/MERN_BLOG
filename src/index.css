@@ -1,3 +1,9 @@
+
 body {
     background-color: #FFF0E5;
+}
+
+* {
+    font-family: 'Noto Sans JP' !important; 
+    font-family: 'Heebo', sans-serif !important;
 }
