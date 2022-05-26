@@ -54,7 +54,7 @@ export default makeStyles((theme) => ({
       display: 'none',
     },
     image: {
-      marginLeft: '5px',
+      marginLeft: '4px',
     },
     toolbar: {
       display: 'flex',
